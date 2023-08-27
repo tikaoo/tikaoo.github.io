@@ -97,6 +97,7 @@
   color: var(--main-text-color);
   text-decoration: none;
   max-width: 225px;
+  font-size: 13px;
 }
 
 #email-container ion-icon {
@@ -119,8 +120,9 @@
 }
 
 .description {
-  max-width: 75%;
   margin-bottom: 10px;
+  font-size: 15px;
+  line-height: 25px;
 }
 
 #btn-projects {
